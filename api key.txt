@@ -1,0 +1,13 @@
+https://syvnclufxahwoyasdeqj.supabase.co --> SUPABASE_URL
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN5dm5jbHVmeGFod295YXNkZXFqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk3MzAxODQsImV4cCI6MjA5NTMwNjE4NH0.Rj6GYQJBxrzLc_KoCeZNU7bMCnjSDbalBBIWHA-XlnM --> SUPABASE_ANON_KEY
+
+
+https://script.google.com/macros/s/AKfycbzD1ZbcmYom6_4u-Hfs1HT-q2a6g5gQEBOSzgdWpSU4rGxgutNu5vsKWp1hNLGBw2OU/exec
+
+
+
+
+https://script.google.com/macros/s/AKfycbzOZVJGKEULik6HjPx2TH7Hh6HUSxG6roWOlKqi4nj05pEDeM_7HjJxB61o3LWq5tzC/exec
+
+
