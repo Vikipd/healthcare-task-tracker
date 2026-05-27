@@ -43,7 +43,7 @@ function App() {
     session.user.email;
 
   // ADMIN
-  if (email === "admin@test.com") {
+  if (email === "admin@workflow.com") {
     return (
       <AdminDashboard
         session={session}
